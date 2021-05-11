@@ -1,4 +1,5 @@
 # Fish Classification and Segmentation
 
 ## Classification
-![Red Sea Bream](images/Sample Red Sea Bream.png)
+
+<img src="/images/Sample Red Sea Bream.png" alt="Red Sea Bream" style="height: 20px; width:20px;"/>
